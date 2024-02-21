@@ -5,5 +5,7 @@
 3. Strings
 4. Listas
 5. Dicionários
+6. Tuplas
+Exercícios/solução
 
-`status: em andamento`
+`status: finalizado`
