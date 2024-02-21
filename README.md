@@ -6,6 +6,7 @@
 4. Listas
 5. Dicionários
 6. Tuplas
+
 Exercícios/solução
 
 `status: finalizado`
