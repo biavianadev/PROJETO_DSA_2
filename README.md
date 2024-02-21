@@ -4,5 +4,6 @@
 2. Variáveis
 3. Strings
 4. Listas
+5. Dicionários
 
 `status: em andamento`
